@@ -2,7 +2,7 @@
 
 An interactive single-page trivia game for fans of Brooklyn Nine-Nine. Test your knowledge of the 99th precinct's finest detectives across 12 questions covering characters, catchphrases, memorable moments, and more.
 
-## Tech Stack
+## Tech Stack SUCCULENT
 
 | Layer | Technology |
 |-------|------------|
